@@ -1,0 +1,23 @@
+commit 9480f101846b1d484c312d321d23224b4ef6eac3
+Author: AngelP11 <angelgabrielponce@gmail.com>
+Date:   Tue Feb 27 15:26:06 2018 -0400
+
+    Agregamos la guitarra acustica
+
+commit eb454877ca3b18707a61bba2c7b2c8d11086e19a
+Author: AngelP11 <angelgabrielponce@gmail.com>
+Date:   Tue Feb 27 11:57:29 2018 -0400
+
+    Agregando nuestro hero
+
+commit dd23bebb08dafa88427a141a58ef27161a21cab8
+Author: AngelP11 <angelgabrielponce@gmail.com>
+Date:   Tue Feb 27 11:51:56 2018 -0400
+
+    Agregando el header
+
+commit 90632b92e3dbf4584e52964840c2b7b4c46736f0
+Author: AngelP11 <angelgabrielponce@gmail.com>
+Date:   Tue Feb 27 11:35:36 2018 -0400
+
+    Incializar nuestro landing
